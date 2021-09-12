@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CharacterCounter/1.0.0": {
+        "runtime": {
+          "CharacterCounter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CharacterCounter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
